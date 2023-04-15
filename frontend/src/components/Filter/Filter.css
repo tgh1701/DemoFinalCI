@@ -1,0 +1,35 @@
+.filter-button:hover{
+    box-shadow: 0 1px 2px rgb(0 0 0 / 12%), 0 4px 12px rgb(0 0 0 / 9%);
+    transition: all 0.2s;
+  }
+  
+  .Mui-selected .MuiTab-wrapper {
+    color: black;
+  }
+  
+  .filter-bar{
+    border-bottom: 1px solid var(--grey);
+    background-color: var(--body_background);
+    color: var(--body_color);
+  }
+  
+  .filter-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    gap: 0.25rem;
+    border: 1px solid var(--grey);
+    padding: 0.5rem;
+    border-radius: 2rem;
+    min-width: 90;
+    margin-left: 0.5rem;
+    text-transform: capitalize;
+    background-color: var(--body_background); 
+    color: var(--body_color);
+  }
+  
+  #filter-button:hover{
+    cursor: pointer;
+  }
+  

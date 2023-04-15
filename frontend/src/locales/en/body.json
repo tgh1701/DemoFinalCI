@@ -1,0 +1,10 @@
+{
+        "new":"New",
+        "location": "Location",
+        "time": "Time",
+        "price": "Price",
+        "night": "Night",
+        "sortby": " Sort by",
+        "pricehightolow": "Price: High to Low",
+        "pricelowtohigh": "Price: Low to High"
+}

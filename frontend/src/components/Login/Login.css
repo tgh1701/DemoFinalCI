@@ -1,0 +1,11 @@
+.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: black !important;
+}
+
+.Mui-focused .MuiInputLabel-outlined {
+  color: black !important;
+}
+
+.logo{
+  height: 5rem;
+}
