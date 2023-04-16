@@ -1,7 +1,6 @@
 import React from "react";
 import "./navbar.css";
 import logo from "../../assets/logo/logo.png";
-import LanguageIcon from "@mui/icons-material/Language";
 import ProfileMenu from "./ProfileMenu";
 import DarkMode from "../Theme/DarkMode";
 
@@ -29,9 +28,6 @@ function Navbarfordetails() {
         <div className="profile-container">
           <div className="">
             <DarkMode />
-          </div>
-          <div className="lang-icon">
-            <LanguageIcon />
           </div>
           <div className="profile-div">
             <ProfileMenu />
