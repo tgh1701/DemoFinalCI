@@ -33,7 +33,7 @@ function App() {
         sortBy={sortBy}
         filterBy={filterBy}
       />
-      <Footer />
+      <Footer marginLeft="5rem" marginRight="5rem" />
     </div>
   );
 }

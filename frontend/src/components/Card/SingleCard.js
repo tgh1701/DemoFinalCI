@@ -513,7 +513,7 @@ const SingleCard = () => {
           <p>{t("review1")}</p>
         </Box>
       </Box>
-      <Footer />
+      <Footer marginLeft="13rem" marginRight="13rem" />
     </Box>
   );
 };
